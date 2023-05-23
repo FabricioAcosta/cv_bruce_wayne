@@ -1,0 +1,35 @@
+.fotoBatman{
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h1, h2{
+    background-color: #C4C4C4;;
+    color: #005677;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+p{
+    background-color: #005677;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+span{
+    font-weight: bold;
+}
+.cursiva{
+    font-style: italic;
+}
+
+i{
+    margin-left: 0.8em;
+}
